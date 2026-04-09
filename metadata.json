@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SMART Referral System",
+  "description": "A developer-focused doctor selection and referral app that maps symptoms to specialists and facility levels.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
